@@ -1,0 +1,6 @@
+<resources>
+
+    <dimen name="txtParcial1">25sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="txtTamanho">20sp</dimen>
+</resources>
